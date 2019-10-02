@@ -36,4 +36,16 @@ int main()
     c obj;
     getch();
 }
+int main()
+{
+    c obj;
+    getch();
+}
+
+int main()
+{
+    c obj;
+    getch();
+}
+
 
